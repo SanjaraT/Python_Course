@@ -1,0 +1,4 @@
+print("--PROGRAM TO OCCURANCE OF A CHARACTER--")
+sen = input("Write something : ")
+occ = sen.count("$")
+print("Occurance of $ : ", occ)
