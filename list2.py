@@ -1,0 +1,6 @@
+print("--PROGRAM TO SORT GRADES--")
+grade = input("Enter student grades separated by spaces")
+grade_list = grade.split()
+print(grade_list.count("A"))
+grade_list.sort()
+print(grade_list)
