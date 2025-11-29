@@ -1,4 +1,4 @@
-print("--PROGRAM TO CHECKPLINDROME OR NOT--")
+print("--PROGRAM TO CHECK PALINDROME OR NOT--")
 sen = input("Enter a sentence separated by spaces: ")
 sen_list = sen.split()
 sen_list2 = sen_list.copy()
